@@ -15,6 +15,7 @@ fn main() {
         match input.trim() {
             "1" => euler_problem_001::solve(),
             "2" => euler_problem_002::solve(),
+            "6" => euler_problem_006::solve(),
             "q" | "Q" => {
                 println!("Exiting...");
                 break;
