@@ -11,7 +11,7 @@
 // Find the difference between the sum of the squares of the first
 // one hundred natural numbers and the square of the sum.
 // problems/euler_problem_002.rs
-pub fn solve() {
+pub fn print_solve() {
     println!("Difference between the sum of the squares of the first one hundred natural numbers and the square of the sum: \n{}", difference_sum_of_squares_square_of_sums(100));
 }
 

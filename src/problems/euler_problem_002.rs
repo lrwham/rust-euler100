@@ -1,5 +1,5 @@
 // problems/euler_problem_002.rs
-pub fn solve() {
+pub fn print_solve() {
     println!(
         "Sum of even Fibonacci numbers below 4 million: {}",
         sum_of_even_fibonacci_numbers(4_000_000)
